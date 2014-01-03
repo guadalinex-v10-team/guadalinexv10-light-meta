@@ -6,6 +6,7 @@
 ##Metapkgs
 #guadalinexv9-about
 guadalinexv9-light-artwork
+guadalinexv9-firefox-24.2.0
 #guadalinexv9-base-files-conf
 #guadalinexv9-desktop-conf
 #guadalinexv9-example-content
@@ -85,8 +86,8 @@ locate
 #m
 mtp-tools
 myspell-en-gb
-mythes-en-au
-mythes-en-us
+#mythes-en-au
+#mythes-en-us
 myspell-es
 #n
 nouveau-firmware
