@@ -72,6 +72,7 @@ pcmanfm
 leafpad
 sound-theme-freedesktop
 gnome-icon-theme-full
+notification-daemon
 
 usb-modeswitch
 usb-modeswitch-data
