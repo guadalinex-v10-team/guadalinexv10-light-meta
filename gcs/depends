@@ -119,6 +119,15 @@ language-pack-gnome-es
 aspell-es
 libglib2.0-bin
 
+ubuntu-restricted-addons 
+ubuntu-restricted-extras
+flashplugin-installer
+gstreamer0.10-ffmpeg
+gstreamer0.10-fluendo-mp3
+unrar
+gstreamer0.10-plugins-bad-multiverse
+libavcodec-extra-53
+
 gstreamer0.10-alsa
 gstreamer0.10-gconf
 gstreamer0.10-plugins-base-apps
