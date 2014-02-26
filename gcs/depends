@@ -73,6 +73,7 @@ leafpad
 sound-theme-freedesktop
 gnome-icon-theme-full
 notification-daemon
+zenity
 
 usb-modeswitch
 usb-modeswitch-data
