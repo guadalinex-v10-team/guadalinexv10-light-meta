@@ -12,6 +12,10 @@ command-not-found
 acl
 vim
 
+gnome-keyring
+libpam-gnome-keyring
+policykit-desktop-privileges
+
 jockey-gtk
 dkms
 bcmwl-kernel-source
