@@ -124,6 +124,16 @@ language-pack-gnome-es
 aspell-es
 libglib2.0-bin
 
+libreoffice
+libreoffice-pdfimport
+libreoffice-gnome
+libreoffice-l10n-es
+libreoffice-help-es
+libreoffice-officebean
+libreoffice-gtk3
+libreoffice-style-human
+fonts-liberation
+
 ubuntu-restricted-addons 
 ubuntu-restricted-extras
 flashplugin-installer
