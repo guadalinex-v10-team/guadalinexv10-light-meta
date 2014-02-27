@@ -8,6 +8,7 @@ thunderbird-esr
 
 acpi-support
 usbutils
+pciutils
 command-not-found
 acl
 vim
