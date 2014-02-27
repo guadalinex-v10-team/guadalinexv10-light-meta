@@ -132,6 +132,7 @@ unrar
 gstreamer0.10-plugins-bad-multiverse
 libavcodec-extra-53
 
+icedtea-7-plugin
 gstreamer0.10-alsa
 gstreamer0.10-gconf
 gstreamer0.10-plugins-base-apps
