@@ -73,7 +73,6 @@ lxterminal
 mdm
 obconf
 openbox
-openbox-themes
 pcmanfm
 leafpad
 sound-theme-freedesktop
@@ -120,7 +119,6 @@ rfkill
 zip
 
 firefox-locale-es
-firefox-gnome-support
 language-pack-gnome-es
 aspell-es
 libglib2.0-bin
@@ -139,10 +137,8 @@ ubuntu-restricted-addons
 ubuntu-restricted-extras
 flashplugin-installer
 gstreamer0.10-ffmpeg
-gstreamer0.10-fluendo-mp3
 unrar
 gstreamer0.10-plugins-bad-multiverse
-libavcodec-extra-53
 
 gstreamer0.10-alsa
 gstreamer0.10-gconf
