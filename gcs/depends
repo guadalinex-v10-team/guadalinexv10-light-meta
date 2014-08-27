@@ -29,9 +29,8 @@ linuxmint-keyring
 
 plymouth-theme-ubuntu-logo
 plymouth-theme-ubuntu-text
-plymouth-label
 plymouth-theme-text
-plymouth
+plymouth-theme-glow
 
 network-manager
 network-manager-gnome
@@ -77,6 +76,19 @@ openbox
 pcmanfm
 leafpad
 sound-theme-freedesktop
+samba
+smbclient
+dosfstools
+xfsprogs
+reiserfsprogs
+reiser4progs
+jfsutils
+ntfs-3g
+dosfstools
+kpartx
+dmraid
+dmsetup
+gpart
 gnome-icon-theme-full
 notification-daemon
 zenity
@@ -147,6 +159,13 @@ gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
 gstreamer0.10-tools
 pulseaudio-module-bluetooth
+
+gstreamer1.0-plugins-bad
+gstreamer1.0-vaapi
+gstreamer1.0-plugins-ugly
+gstreamer1.0-fluendo-mp3
+gstreamer1.0-tools
+gstreamer1.0-x
 
 alsa-utils
 alsa-base
