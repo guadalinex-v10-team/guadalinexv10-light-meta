@@ -10,6 +10,7 @@ thunderbird-esr
 
 update-manager
 software-properties-gtk
+aptdaemon
 
 acpi-support
 usbutils
