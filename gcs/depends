@@ -8,6 +8,9 @@ mint-artwork-common
 gecosws-mdm-theme
 thunderbird-esr
 
+update-manager
+software-properties-gtk
+
 acpi-support
 usbutils
 pciutils
