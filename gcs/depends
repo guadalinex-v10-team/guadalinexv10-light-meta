@@ -23,6 +23,8 @@ vim
 gnome-keyring
 libpam-gnome-keyring
 policykit-desktop-privileges
+policykit-1
+policykit-1-gnome
 
 jockey-gtk
 dkms
