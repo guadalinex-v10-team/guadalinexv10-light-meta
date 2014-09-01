@@ -7,6 +7,7 @@ guadalinexv9-light-lxde-common-conf
 mint-artwork-common
 gecosws-mdm-theme
 thunderbird-esr
+at-spi2-core
 
 update-manager
 software-properties-gtk
@@ -66,6 +67,7 @@ lxtask
 ttf-dejavu
 gtk2-engines
 gtk2-engines-murrine
+gtk2-engines-pixbuf
 gtk3-engines-unico
 lxappearance
 lxde-core
@@ -96,7 +98,9 @@ kpartx
 dmraid
 dmsetup
 gpart
+gnome-icon-theme
 gnome-icon-theme-full
+gnome-icon-theme-symbolic
 notification-daemon
 zenity
 
