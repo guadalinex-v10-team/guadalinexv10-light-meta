@@ -6,8 +6,15 @@ guadalinexv9-light-lxde-common-conf
 #guadalinexv9-help-mantis
 mint-artwork-common
 gecosws-mdm-theme
+mint-mdm-themes
+indicator-application
 thunderbird-esr
 at-spi2-core
+xfce4-power-manager
+xdg-user-dirs-gtk
+update-notifier
+system-config-printer-gnome
+blueman
 
 update-manager
 software-properties-gtk
@@ -181,7 +188,7 @@ gstreamer1.0-x
 gnome-system-tools
 gnome-screenshot
 
-light-locker
+xscreensaver
 
 alsa-utils
 alsa-base
