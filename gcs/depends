@@ -168,7 +168,7 @@ fonts-liberation
 
 ubuntu-restricted-addons 
 ubuntu-restricted-extras
-flashplugin-installer-jda
+flashplugin-installer
 unrar
 
 gstreamer0.10-alsa
