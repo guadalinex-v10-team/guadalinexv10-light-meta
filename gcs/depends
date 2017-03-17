@@ -1,7 +1,7 @@
 guadalinexv10-light-artwork
 gecosws-icon-theme
 
-sigram
+#sigram
 simpleafirma
 
 firefox-esr-guadaext
@@ -39,15 +39,13 @@ policykit-1-gnome
 jockey-gtk
 dkms
 bcmwl-kernel-source
-linux-firmware-nonfree
 
 ubuntu-keyring
 linuxmint-keyring
 
 plymouth-theme-ubuntu-logo
 plymouth-theme-ubuntu-text
-plymouth-theme-text
-plymouth-theme-glow
+plymouth-themes
 
 network-manager
 network-manager-gnome
@@ -56,7 +54,7 @@ wireless-tools
 xdg-utils
 xfonts-base
 xfonts-encodings
-xfonts-mathml
+#xfonts-mathml
 xfonts-utils
 xserver-xorg
 xserver-xorg-input-all
@@ -94,6 +92,7 @@ openbox
 pcmanfm
 leafpad
 mintstick
+mint-translations
 sound-theme-freedesktop
 samba
 smbclient
@@ -170,9 +169,7 @@ fonts-liberation
 ubuntu-restricted-addons 
 ubuntu-restricted-extras
 flashplugin-installer-jda
-gstreamer0.10-fluendo-mp3
 unrar
-gstreamer0.10-plugins-bad-multiverse
 
 gstreamer0.10-alsa
 gstreamer0.10-gconf
