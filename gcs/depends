@@ -19,7 +19,7 @@ system-config-printer-gnome
 blueman
 
 update-manager
-software-properties-gtk
+#software-properties-gtk
 aptdaemon
 apturl
 
