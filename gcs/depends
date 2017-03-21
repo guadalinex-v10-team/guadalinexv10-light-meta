@@ -2,7 +2,8 @@ guadalinexv10-light-artwork
 gecosws-icon-theme
 
 #sigram
-openjdk-8-jre
+default-jre
+default-java-plugin
 simpleafirma
 
 firefox
