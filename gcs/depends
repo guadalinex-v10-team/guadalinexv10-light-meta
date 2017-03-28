@@ -20,6 +20,9 @@ xdg-user-dirs-gtk
 update-notifier
 system-config-printer-gnome
 blueman
+obexftp
+obexpushd
+
 
 update-manager
 #software-properties-gtk
