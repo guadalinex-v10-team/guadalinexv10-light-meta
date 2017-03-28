@@ -20,7 +20,7 @@ mint-mdm-themes
 indicator-application
 thunderbird
 at-spi2-core
-xfce4-power-manager
+mate-power-manager
 # Needed by LXDE panel battery indicator
 libnotify-bin
 xdg-user-dirs-gtk
