@@ -4,6 +4,13 @@ gecosws-icon-theme
 #sigram
 default-jre
 default-java-plugin
+pcscd
+libccid
+libacsccid1
+libpcsclite1
+pcsc-tools
+pinentry-gtk2
+
 
 firefox
 guadalinexv10-light-lxde-common-conf
