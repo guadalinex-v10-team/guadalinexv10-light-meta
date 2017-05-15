@@ -210,3 +210,7 @@ alsa-utils
 alsa-base
 
 upower
+
+file-roller
+gdebi
+evince
